@@ -1,9 +1,5 @@
-
+```markdown
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/neonline.svg" width="100%" />
-
-<br><br>
 
 # Dorgham
 
@@ -42,32 +38,17 @@ mediaBubble→ bilingual agency OS (Egypt + UAE)
 ### // stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grok-000000?style=flat-square&logo=x&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Grok-000000?style=flat-square&logo=x&logoColor=white" alt="Grok" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
 </p>
-
----
-
-### // activity
-
-<div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=iDorgham&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=22D3EE&text_color=94A3B8&bg_color=0F172A" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDorgham&layout=compact&theme=transparent&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0F172A&langs_count=6" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iDorgham&theme=transparent&hide_border=true&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B&background=0F172A" />
-</div>
 
 ---
 
@@ -143,34 +124,29 @@ mediaBubble→ bilingual agency OS (Egypt + UAE)
 
 [![views](https://komarev.com/ghpvc/?username=iDorgham&style=flat-square&color=22D3EE)](https://github.com/iDorgham)
 
-<br>
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/neonline.svg" width="100%" />
-
 </div>
 ```
 
-### What changed
+### What was broken & fixed
 
-| Area | Refinement |
-|------|------------|
-| **Titles** | `// whoami` · `// stack` · `// activity` · `// projects` · `// spotlight` (geek comment style) |
-| **Subtitle** | Minimal: `products · agents · systems` |
-| **About** | Tight code-block map of projects instead of long paragraphs |
-| **Tone** | More terminal / developer, less marketing |
-| **Markdown** | Cleaner spacing, consistent lowercase where it fits the geek aesthetic, reduced noise |
-| **Links** | Simple `view repo →` instead of heavy badges |
-| **Footer** | `// end of file` for the full geek loop |
+| Broken item | Why | Fix |
+|-------------|-----|-----|
+| `neonline.svg` (trinib) | Path / repo changed or file missing | Removed both dividers |
+| `github-readme-stats.vercel.app` | Public instance often rate-limited | Removed stats cards |
+| `github-readme-streak-stats.herokuapp.com` | Heroku free tier / service frequently down | Removed streak card |
+| Some badge logos | Rare logo names can 404 | Kept only well-supported shields.io badges |
 
-Copy the whole block into `README.md` and push.Here’s a refined, geek-focused profile README with cleaner structure, sharper titles, and tighter markdown:
+### Still working (stable)
+- Typing SVG → `readme-typing-svg.demolab.com`
+- All shields.io badges
+- Profile view counter → `komarev.com`
+- Pure markdown + HTML table layout
+
+This version should load cleanly with **no broken images**.Here’s a **fixed, more reliable** version. I removed the broken external SVGs (neonline divider + flaky stats services) and kept only stable sources.
 
 ```markdown
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/neonline.svg" width="100%" />
-
-<br><br>
-
 # Dorgham
 
 **products · agents · systems**
@@ -208,32 +184,17 @@ mediaBubble→ bilingual agency OS (Egypt + UAE)
 ### // stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grok-000000?style=flat-square&logo=x&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Grok-000000?style=flat-square&logo=x&logoColor=white" alt="Grok" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" />
 </p>
-
----
-
-### // activity
-
-<div align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=iDorgham&show_icons=true&theme=transparent&hide_border=true&title_color=22D3EE&icon_color=22D3EE&text_color=94A3B8&bg_color=0F172A" />
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iDorgham&layout=compact&theme=transparent&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0F172A&langs_count=6" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iDorgham&theme=transparent&hide_border=true&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B&background=0F172A" />
-</div>
 
 ---
 
@@ -309,8 +270,5 @@ mediaBubble→ bilingual agency OS (Egypt + UAE)
 
 [![views](https://komarev.com/ghpvc/?username=iDorgham&style=flat-square&color=22D3EE)](https://github.com/iDorgham)
 
-<br>
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/images/neonline.svg" width="100%" />
-
 </div>
+```

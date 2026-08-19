@@ -1,4 +1,3 @@
-```markdown
 <div align="center">
 
 # Dorgham
@@ -271,4 +270,3 @@ mediaBubble→ bilingual agency OS (Egypt + UAE)
 [![views](https://komarev.com/ghpvc/?username=iDorgham&style=flat-square&color=22D3EE)](https://github.com/iDorgham)
 
 </div>
-```

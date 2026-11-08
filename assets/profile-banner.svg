@@ -22,7 +22,8 @@
   <rect x="72" y="65" width="42" height="4" rx="2" fill="#22D3EE"/>
   <text x="72" y="148" fill="#F8FAFC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="68" font-weight="700" letter-spacing="2">DORGHAM</text>
   <text x="75" y="193" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="23">Digital platforms, AI-assisted workflows, and developer tools.</text>
-  <text x="75" y="232" fill="#7DD3FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" letter-spacing="1.4">PRODUCT ENGINEER · EGYPT</text>
+  <text x="75" y="222" fill="#94A3B8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">TypeScript · React · Next.js · Expo · Go · Prisma · AI Tooling</text>
+  <text x="75" y="252" fill="#7DD3FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" letter-spacing="1.4">PRODUCT ENGINEER · EGYPT</text>
 
   <g stroke="#38BDF8" stroke-opacity="0.38" stroke-width="1.5">
     <path d="M862 82 974 150 1084 88"/>

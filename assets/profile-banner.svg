@@ -48,4 +48,5 @@
     <path d="M958 132v36M990 132v36M958 150h32"/>
     <path d="M964 139h20M964 161h20" stroke-opacity="0.55"/>
   </g>
+  <rect x="72" y="278" width="1056" height="2" rx="1" fill="#22D3EE" opacity="0.35"/>
 </svg>

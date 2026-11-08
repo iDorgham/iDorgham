@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none" role="img" aria-labelledby="title">
+  <title id="title">GateFlow</title>
+  <rect x="1" y="1" width="62" height="62" rx="17" fill="#0F172A" stroke="#29405A"/>
+  <g stroke="#67E8F9" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M17 51V15a2 2 0 0 1 2-2h26a2 2 0 0 1 2 2v36"/>
+    <path d="M24 51V22h16v29"/>
+    <path d="m27 35 4 4 8-10"/>
+    <path d="M12 51h40"/>
+  </g>
+</svg>

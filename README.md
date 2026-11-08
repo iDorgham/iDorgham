@@ -86,10 +86,6 @@ I build products at the intersection of software engineering and applied AI. My 
   </tr>
 </table>
 
-<p align="center">
-  <img src="assets/github-metrics.svg" alt="GitHub metrics" width="100%">
-</p>
-
 ## Areas of Focus
 
 - **Product engineering:** Multi-tenant applications, operational workflows, and bilingual digital experiences.
